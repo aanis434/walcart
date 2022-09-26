@@ -19,7 +19,7 @@ Please open [http://localhost:3000](http://localhost:3000) with browser to see t
 
 ## Details
 
-# In components folder following components with css modules
+### In components folder following components with css modules
 - Header Components and its dependencies
 ```bash
 Header.js
@@ -56,10 +56,10 @@ Hero.module.css
 
 - Utilities Components for svg/vector icons
 
-# In styles folder
+### In styles folder
 - global.css
 
-# In Public folder 
+### In Public folder 
 - All kind of assets we can found this folder.
 
 
@@ -72,4 +72,4 @@ Hero.module.css
 
 ## Live Preview Link
 
-[Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme)
+[Walcart](https://walcart-bd.vercel.app/)
