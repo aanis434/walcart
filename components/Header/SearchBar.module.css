@@ -1,0 +1,40 @@
+.badge {
+    padding: 0px 8px;
+    background: var(--secondary);
+    border-radius: 50%;
+    position: absolute;
+    top: -8px;
+    left: 20px;
+}
+.input {
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+    border: none;
+    padding: 6px 52px;
+    color: var(--light)
+}
+.input:focus {
+    /* background: none; */
+    border: none;
+    outline: none;
+    color: var(--light)
+}
+.searchIcon {
+    top: calc(100% - 66%);
+    left: 29px
+}
+.btn {
+    font-size: 18px;
+    line-height: 25px;
+    color: white;
+    background-color: var(--secondary);
+    padding: 17px 25px;
+    border: none;
+    width: 109px;
+    height: 60px;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+}
+.btn:focus{
+    outline: none;
+}

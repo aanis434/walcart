@@ -1,0 +1,9 @@
+.item1 {
+    flex: 1 0 auto;
+}
+.item2 {
+    flex: 0 0 51%;
+}
+.item3 {
+    flex: 1 0 25%;
+}

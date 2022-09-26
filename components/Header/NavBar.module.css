@@ -1,0 +1,13 @@
+.discountTitle {
+    font-size: 11px;
+    line-height: 13.31px;
+}
+.discountSubtitle{
+    font-weight: 700;
+    color: var(--tertiary);
+}
+.topCategories {
+    padding: 19px 41px 15px 21px;
+    background-color: var(--secondary);
+    border-radius: 10px 10px 0px 0px;
+}

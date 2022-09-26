@@ -1,0 +1,17 @@
+.borderBottom {
+    border-bottom: 1px solid #F4F4F4;
+}
+.childItem {
+    position: absolute;
+    left: 100%;
+    top: 0;
+    width: 100%;
+    z-index: 99;
+    display: none;
+}
+.item:hover {
+    background-color: #FFF2F2;
+}
+.item:hover > .childItem{
+    display: block;
+}

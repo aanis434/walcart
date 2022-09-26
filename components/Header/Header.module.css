@@ -1,0 +1,6 @@
+
+.header {
+    background-color: var(--primary);
+    color: white;
+    line-height: 1.5rem;
+}
